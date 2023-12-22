@@ -11,4 +11,6 @@ La idea fue ejecutar los test cases con el comando "mvn test" pero no recuerdo c
 
 Tengo un bug en lo que es la generacion del reporte, ya que el reporte se reemplaza con la ultima ejecucion.
 
+# Sobre la llamada la API de MercadoLibre
 
+Tuve problemas, al bajar JMeter tuve error con JAVA y no pude avanzar. Pero la llamada a la API fue exitosa con Rest Assured
