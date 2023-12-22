@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite">
+    <test name="ChromeTestLogin">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="frontend.CrawdarChallengeTest_Login" />
+        </classes>
+    </test>
+    <test name="FirefoxTestLogin">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="frontend.CrawdarChallengeTest_Login" />
+        </classes>
+    </test>
+    <test name="ChromeTestCart">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="frontend.CrawdarChallengeTest_Cart" />
+        </classes>
+    </test>
+    <test name="FirefoxTestCart">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="frontend.CrawdarChallengeTest_Cart" />
+        </classes>
+    </test>
+</suite>
