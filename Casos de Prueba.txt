@@ -1,0 +1,74 @@
+
+LOGIN
+	Titulo: Login - Campo usuario vacio
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Dejar el campo usuario vacio 
+		- Click en login
+		
+	Titulo: Login - Campo contraseña vacio 
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Dejar el campo contraseña vacio 
+		- Click en login
+		
+	Titulo: Login - Usuario campo caracteres especiales
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Llenar el campo usuario con caracteres especiales 
+		- Llenar el campo contraseña valida 
+		- Click en login
+		
+	Titulo: Login - Usuario campo caracteres numericos
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Llenar el campo usuario con caracteres numericos 
+		- Llenar el campo contraseña valida 
+		- Click en login
+		 
+		
+	Titulo: Login - Contraseña campo caracteres especiales
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Llenar el campo contraseña con caracteres especiales 
+		- Llenar el campo usuario valida 
+		- Click en login
+		
+	Titulo: Login - Contraseña campo caracteres numericos   
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Llenar el campo contraseña con caracteres numericos 
+		- Llenar el campo usuario valida 
+		- Click en login
+
+CARRITO
+	Titulo: Carrito - Agregar un producto
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Iniciar sesion
+		- Click en Add to Cart
+		
+	Titulo: Carrito - Agregar y quitar un producto
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Iniciar sesion
+		- Click en Add to Cart
+		- Ingresar al carrito
+		- Click en remove
+		
+	Titulo: Carrito - Validar badge (numero en el icono de carrito) 
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Iniciar sesion
+		- Click en Add to Cart
+		- Validar badge
+		
+	Titulo: Carrito - Validar pagina del carrito 
+	Pasos:
+		- Ingresar a la web (https://www.saucedemo.com/)
+		- Iniciar sesion
+		- Click en Add to Cart
+		- Click en el badge
+		- Validar los productos agregados
+		
+	
